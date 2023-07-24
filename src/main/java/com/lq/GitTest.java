@@ -14,5 +14,8 @@ public class GitTest {
         System.out.println("===============00123");
         System.out.println("===============00kjhgg");
         System.out.println("===============00895511");
+        System.out.println("===============00895511");
+        System.out.println("哈迪斯加快进度看似简单科技界" +
+                "的苏军的十九大精神困境空间打开手机号码大都市");
     }
 }
